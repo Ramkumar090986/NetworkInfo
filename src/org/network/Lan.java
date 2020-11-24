@@ -5,4 +5,8 @@ public class Lan {
     System.out.println("LAN:Jio");
 
 	}
+	public void network() {
+	System.out.println("Network");
+
+	}
 }
